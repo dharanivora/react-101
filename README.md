@@ -1,3 +1,6 @@
+# react-101
+This repository contains various learning examples of React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
